@@ -12,57 +12,7 @@
     console.log(b);
     alert(b);
     document.write(b);
-}
 
-{
-    let c = 'com';
-    c = 'dot';
-    console.log(c);
-    alert(c);
-    document.write(c);
-}
-
-{
-    let d = 'ua';
-    d = 'pl';
-    console.log(d);
-    alert(d);
-    document.write(d);
-}
-
-{
-    let e = 1;
-    e = 3;
-    console.log(e);
-    alert(e);
-    document.write(e);
-}
-
-{
-    let f = 10;
-    f = 8;
-    console.log(f);
-    alert(f);
-    document.write(f);
-}
-
-{
-    let g = -999;
-    g = -666;
-    console.log(g);
-    alert(g);
-    document.write(g);
-}
-
-{
-    let h = 123;
-    h = 321;
-    console.log(h);
-    alert(h);
-    document.write(h);
-}
-
-{
     let i = 3.14;
     i = 14.3;
     console.log(i);
