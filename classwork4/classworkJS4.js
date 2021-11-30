@@ -88,6 +88,21 @@
 
 
 // - створити функцію яка приймає будь-яку кількість чисел, повертає найменьше, а виводить найбільше (Math використовувати заборонено);
+//         function someNums (){
+//         let min = arguments[0];
+//         let max = arguments [0];
+//         for (let i = 0; i < arguments.length; i++) {
+//             if (arguments[i] > max){
+//                 max = arguments[i]
+//             } else if (arguments[i] < min){
+//                 min = arguments[i]
+//             }
+//         }
+//         console.log(min)
+//         document.write('Максимальне число з введених: ' + max)
+//         return max;
+// }
+// someNums(5,8,15,48,2021)
 
 
 
